@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "cat",
+    "name": "cat",
+    "epithet": "concatenate — the simplest tool · natural",
+    "emergence": "natural",
+    "moniker": "⟦cat:COR:26b8e5⟧"
+  },
+  {
+    "slug": "the-pipe-citizens",
+    "name": "The Pipe Citizens",
+    "epithet": "read stdin, write stdout · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Pipe Citizens:COR:6f3d42⟧"
+  },
+  {
+    "slug": "do-one-thing-well",
+    "name": "Do One Thing Well",
+    "epithet": "the Unix philosophy, embodied · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Do One Thing Well:COR:0cb1b7⟧"
+  }
+]

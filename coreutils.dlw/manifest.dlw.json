@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Coreutils",
+  "universe": "COR · The Coreutils (TTY · The Terminal)",
+  "emergence": "",
+  "moniker": "⟦The Coreutils:COR:b9b1f9⟧",
+  "carbon": "coreutils.carbon.tiff (TIFF)",
+  "silicon": "coreutils.silicon.png (PNG)",
+  "seal_sha256": "f65abe6deb121cb5ee9129aefb4e44971941f8b9e639875cc1483b55864ef447",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

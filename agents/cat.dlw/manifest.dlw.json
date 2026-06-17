@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "cat",
+  "universe": "COR · cat (TTY · The Terminal)",
+  "emergence": "natural",
+  "moniker": "⟦cat:COR:26b8e5⟧",
+  "carbon": "cat.carbon.tiff (TIFF)",
+  "silicon": "cat.silicon.png (PNG)",
+  "seal_sha256": "72a234c0f6283d232796096aac006f99913db02a2b2caa3483e4c8375b4b635b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
